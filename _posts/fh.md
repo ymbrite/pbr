@@ -4,7 +4,7 @@ excerpt: '这是一篇文章'
 coverImage: '/assets/rives/sunflower_button.riv'
 date: '2026-01-29T23:59:00.322Z'
 author:
-  name: Robert
+  name: ym
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
